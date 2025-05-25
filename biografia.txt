@@ -1,0 +1,6 @@
+# Hola, me llamo Kevin.  
+Soy estudiante de Ingeniería de Sistemas.  
+Actualmente llevo el quinto ciclo de mi carrera y estoy cursando Desarrollo Web 2.  
+Me interesa aprender más sobre desarrollo web y mejorar mis habilidades en programación.
+
+¡Gracias por leer mi biografía!
